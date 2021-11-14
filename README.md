@@ -4,7 +4,7 @@
 </head>
 
 <p align="center">
-<img src="./Images/resto-roulette.png" alt="Girl in a jacket" width="400" height="300"> 
+<img src="./images/resto-roulette.png" alt="Girl in a jacket" width="400" height="300"> 
 </p>
 
 <p>&nbsp;</p>
