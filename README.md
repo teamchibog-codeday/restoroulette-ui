@@ -44,7 +44,7 @@ This project leverages the following libraries:
 
 ### CodeDay Team Chibog
 
-#### Justine Cho [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/justinecho) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Clark Ngo [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/clarkngo/) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Mary Reyes [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/mary-reyes-42397b117/) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Elizabeth Xu [![Linkedin](https://i.stack.imgur.com/gVE0j.png)]() 
+#### Justine Cho [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/justinecho) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Clark Ngo [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/clarkngo/) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Mary Reyes [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/mary-reyes-42397b117/) &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; Elizabeth Xu [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/elizabeth-xu97/) 
 
 
 ---
