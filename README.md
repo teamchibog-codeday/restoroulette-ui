@@ -53,7 +53,7 @@ This project leverages the following libraries:
 
 Click [HERE](./deck/RestoRoulette_deck.pdf) to learn more from our presentation.
 
-[![Crowdfunding Deck](./deck/restoroulette_image.png)](./deck/RestoRoulette_deck.pdf)
+[![RestoRoulette Deck](./deck/restoroulette_image.png)](./deck/RestoRoulette_deck.pdf)
 ---
 
 ## **License**
