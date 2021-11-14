@@ -1,0 +1,83 @@
+body {
+	background: #fff;
+	font-family: "Comfortaa", sans-     serif;
+	position: relative;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.RestoHeader {  
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 40px;
+  font-style: italic;
+}
+
+.blueButton {background-color: lightcyan; padding: 10px; margin: 10px;} 
+
+.redButton {background-color: rgb(127, 255, 212); padding: 10px; margin: 10px;} 
+
+.column {
+  float: left;
+  width: 50%;
+  border:2px; 
+  border-style:solid;    
+  border-color:black;
+  background-size: cover;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#name {
+  font-size: 35px;
+  padding: 15px;
+}
+
+.inner-column {
+  color: white;
+  background-color: gray;    
+  width: 25em;
+  margin: 20px auto 20px auto;
+}
+
+#info {
+  font-size: 30px;
+  margin: 10px;
+}

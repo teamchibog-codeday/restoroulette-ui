@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Resto Roulette</title>
+    <script type = "text/javascript" src = "index.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="row">
+      <div class="column" id="column" style="text-align:center ">
+        <div class="inner-column" style="">
+          <h1 class="RestoHeader">Resto Roulette</h1>
+          <img id="image" class="plate"  width = "200" height = "200">
+          <div id="name"></div>
+          <div id="info">Location: <div id="address"></div></div>
+          <div id="info">Price: <div id="price"></div></div>
+              
+          <div>
+            <button class="blueButton" type="button">Delivery </button>
+            <button class="blueButton" type="button">Pickup/Carryout</button>
+          </div>
+          <div>
+            <div id="info">Don't like it?</div>
+            <button class = "redButton" type="button"onclick="randomize()">Roll again </button>
+          </div>
+        </div>
+      </div>
+      
+      <div class="column">
+      <h3>Enter your preferences (Future Work):</h3>
+
+      <div class="container">
+        <form action="/">
+          <label for="location">Location/Zip Code: </label>
+          <input type="text" id="location" name="location" placeholder="Your zipcode..">
+
+          <label for="distance">Distance/Radius: </label>
+          <input type="text" id="distance" name="distance" placeholder="Your distance in miles..">
+
+          <label for="cuisine">Cuisine Option:</label>
+          <select id="cuisine" name="cuisine">
+            <option value="filipino">Filipino</option>
+            <option value="chinese">Chinese</option>
+            <option value="mexican">Mexican</option>
+            <option value="italian">Italian</option>
+          </select>
+          <label for="price">Price:</label>
+          <select id="price" name="price">
+            <option value="1">$</option>
+            <option value="2">$$</option>
+            <option value="3">$$$</option>
+            <option value="4">$$$$</option>
+            </select>
+            <select id="rating" name="rating">
+              <option value="1">*</option>
+              <option value="2">**</option>
+              <option value="3">***</option>
+              <option value="4">****</option>
+              <option value="4">*****</option>
+            </select>
+            <select id="others" name="others">
+              <option value="1">Gluten-free</option>
+              <option value="2">Vegetarian</option>
+              <option value="3">Vegan</option>
+            <input type="submit" value="Generate">
+            <input type="submit" value="Clear">
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
